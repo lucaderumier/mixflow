@@ -4,7 +4,7 @@ An intelligent mixtape order generator that analyzes audio files and creates opt
 
 **Live at:** [mixflow.app](https://mixflow-three.vercel.app/)
 
-![MixFlow Screenshot](docs/images/screenshot.png)
+![MixFlow Screenshot](docs/images/screenshot_mixflow.png)
 
 ## Features
 
