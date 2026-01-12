@@ -2,7 +2,7 @@
 
 An intelligent mixtape order generator that analyzes audio files and creates optimal track sequences based on BPM and harmonic key compatibility.
 
-**Live at:** [mixflow.app](https://mixflow.app)
+**Live at:** [mixflow.app](https://mixflow-three.vercel.app/)
 
 ## Features
 
