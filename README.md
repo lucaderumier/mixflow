@@ -4,6 +4,8 @@ An intelligent mixtape order generator that analyzes audio files and creates opt
 
 **Live at:** [mixflow.app](https://mixflow-three.vercel.app/)
 
+![MixFlow Screenshot](docs/images/screenshot.png)
+
 ## Features
 
 - **BPM Detection** - Automatically detects tempo using Essentia.js audio analysis
